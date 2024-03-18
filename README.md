@@ -39,6 +39,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Usage
+
+On startup, navigate to the register/ login page. Register a new account or log into an existing account. Upon completion, you will be redirected back to the home screen. You will then be able to navigate to the companies or jobs page (using the Navbar). Each company/ job/ application is linked together using SQL table relationships.
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
